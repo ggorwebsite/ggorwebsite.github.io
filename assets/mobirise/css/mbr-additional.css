@@ -3101,29 +3101,6 @@ body {
     padding: 15px;
   }
 }
-.cid-qRzasNfTeb {
-  background: #efefef;
-}
-.cid-qRzasNfTeb .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qRzasNfTeb .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qRzasNfTeb figcaption {
-  position: relative;
-}
-.cid-qRzasNfTeb figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qRzasNfTeb .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qRunvmDo1T .navbar {
   padding: .5rem 0;
   background: #c1c1c1;
